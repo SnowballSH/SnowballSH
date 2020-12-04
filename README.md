@@ -1,5 +1,7 @@
 # Hi there, I'm SnowballSH! 👋
 
+## I am a programming language engineer, which means I love to create DSLs
+## See more about me on [my website](http://snowballsh.me/)!
 
 ## Here are my github stats! 😉
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SnowballSH&show_icons=true&theme=buefy)](https://github.com/SnowballSH/)

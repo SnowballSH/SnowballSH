@@ -1,6 +1,6 @@
 # Hi there, I'm SnowballSH! 👋
 
-## I am a programming language engineer, which means I love to create DSLs
+## I am a programming language engineer, I love to create languages!
 ## See more about me on [my website](http://snowballsh.me/)!
 
 ## Here are my github stats! 😉

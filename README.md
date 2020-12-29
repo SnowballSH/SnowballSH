@@ -3,13 +3,9 @@
 ## I am a student developer. My strength in programming is frontend, algorithms, and lexing/parsing.
 ## See more about me on [my website](http://snowballsh.me/)!
 
----
-
-### Programming Languages I mastered:
+### Programming Languages I am excellent at:
 - Ruby
 - Python
-
-### Programming Languages I am excellent at:
 - Golang
 - JavaScript/TypeScript
 
@@ -17,13 +13,6 @@
 - C
 - Kotlin
 - Lua
-
-### Programming Languages I am learning:
-(Currently not learning any new language)
-
-### Esoteric Programming Languages I know:
-- Brainf
-- lolcode
 
 ---
 

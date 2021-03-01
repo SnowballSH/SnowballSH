@@ -17,7 +17,8 @@
 
 ---
 
-## Here are my github stats!
 [![Github Stats](https://github-readme-stats.vercel.app/api?username=SnowballSH&show_icons=true&theme=buefy)](https://github.com/SnowballSH/)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowballSH&show_icons=true&theme=buefy&layout=compact&langs_count=8&hide=C)](https://github.com/SnowballSH/)
+-->

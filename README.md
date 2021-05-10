@@ -4,7 +4,8 @@
 ## See more about me on [my website](http://snowballsh.me/)!
 
 ### Programming Languages I am excellent at:
-- Golang (💗)
+- Golang
+- Rust
 - Ruby
 - Python
 - JavaScript/TypeScript
@@ -13,7 +14,6 @@
 - C
 - Kotlin
 - Lua
-- Rust
 
 ### Frameworks I am good at:
 - ReactJS (mostly with NextJS and Typescript)

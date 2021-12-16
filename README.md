@@ -1,7 +1,7 @@
 # Hi there, I'm SnowballSH! 👋
 
 ## I like to remake complex and famous things, like making my own programming language, simple frameworks and libraries, cool animations for algorithm visualization, etc.!
-## See more about me on [my website](http://snowballsh.me/)!
+## See more about me on [my website](http://snowballsh.github.io/)!
 
 ### Programming Languages I am excellent at:
 - Rust

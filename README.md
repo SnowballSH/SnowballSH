@@ -5,16 +5,18 @@
 
 ### Programming Languages I am excellent at:
 - Rust
+- Go
+- Zig
+- C#
+- C++
 - Ruby
 - Python
 - JavaScript/TypeScript
 
 ### Programming Languages I sometimes use:
-- Golang
 - C
 - Kotlin
 - Lua
-- C#/F#
 - Julia
 
 ---

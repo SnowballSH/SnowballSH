@@ -1,6 +1,7 @@
 # Hi there, I'm SnowballSH! 👋
 
-## I like to remake complex and famous things, like making my own programming language, simple frameworks and libraries, cool animations for algorithm visualization, etc.!
+## I like to remake and visualize cool things. For example, custom programming languages, algorithm visualizations, chess engine, etc.!
+## I am the author of the world's 45th strongest open-source chess engine, Avalanche.
 ## See more about me on [my website](http://snowballsh.github.io/)!
 
 ### Programming Languages I am excellent at:

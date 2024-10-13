@@ -17,7 +17,7 @@
 </p>
 
 ## I like to remake and visualize cool things. For example, custom programming languages, algorithm visualizations, chess engine, etc.!
-## I am the author of the world's top 50 strongest open-source chess engine, Avalanche.
+## I am the author of one of the world's 30 strongest open-source chess engine, Avalanche.
 ## See more about me on [my website](http://snowballsh.github.io/)!
 
 ### Programming Languages I am excellent at:
@@ -39,5 +39,3 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SnowballSH&show_icons=true&theme=buefy&layout=compact&langs_count=8&hide=C&exclude_repo=Rustfish)](https://github.com/SnowballSH/)
-
-![stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SnowballSH)

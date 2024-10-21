@@ -16,7 +16,7 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
 </p>
 
-## I like to remake and visualize cool things. For example, custom programming languages, algorithm visualizations, chess engine, etc.!
+## I like to invent, create, remake, and visualize cool things. Some things I love to make are domain-specific programming languages, algorithm visualizations, chess engine, and many more!
 ## I am the author of one of the world's 30 strongest open-source chess engine, Avalanche.
 ## See more about me on [my website](http://snowballsh.github.io/)!
 
